@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @the112
-- 👀 I’m interested in all IT Fields
+- 👋 Hi, I’m @the112 18 y.o
+- 👀 I’m interested in CS 
 - 📫 How to reach me ...:
-Here's my Instagram @_the112_
+-Here's my Instagram @_the112_
 
-Here's my Facebook @Mara_Bel
+-Here's my Facebook @Mara_Bel
+-I'm a busy person 🤧 good luck in reaching me
 
 <!---
 the112/the112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
